@@ -12,3 +12,8 @@ Expansion panel is a material Design component that is used to display a list of
 - `isExpande`: this attribute recives the state to check and update the ui of the pannel
 - `headerBuilder`: This attribute holds text/elements that will be visible always even after collapsing
 - `body`: all our texts/elements you want to be collapsed will go here in the body
+
+# Screenshots
+
+![collapedView](lib/screenshots/Screenshot From 2026-02-12 13-21-13)
+![expandedView](lib/screenshots/Screenshot From 2026-02-12 13-21-17.png)
