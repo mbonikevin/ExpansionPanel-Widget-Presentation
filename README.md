@@ -15,5 +15,5 @@ Expansion panel is a material Design component that is used to display a list of
 
 # Screenshots
 
-![collapedView](lib/screenshots/Screenshot From 2026-02-12 13-21-13)
-![expandedView](lib/screenshots/Screenshot From 2026-02-12 13-21-17.png)
+![collapedView](lib/screenshots/1.png)
+![expandedView](lib/screenshots/2.png)
